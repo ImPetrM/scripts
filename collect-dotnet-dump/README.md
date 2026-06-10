@@ -88,4 +88,5 @@ Temporary dump files are removed from the container after the dump is copied to 
 
 * Support collecting dumps from multiple containers
 * Automatically detect and allow selecting the target .NET process instead of relying on PID = 1
+* Support periodic dump collection (snapshotting)
 
